@@ -7,8 +7,7 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).resolve().parent
-AVATAR_PATH = BASE_DIR / "avatar.png"
-
+AVATAR_PATH = BASE_DIR / "IMG_0066.png"
 screen = turtle.Screen()
 screen.title("AI Virtual Pet — avatar foto 1")
 screen.bgcolor("lightblue")
